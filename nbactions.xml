@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-ella</actionName>
+            <displayName>ella</displayName>
+            <activatedProfiles>
+                <activatedProfile>clean</activatedProfile>
+                <activatedProfile>install</activatedProfile>
+            </activatedProfiles>
+        </action>
+    </actions>
